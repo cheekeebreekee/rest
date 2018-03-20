@@ -1,0 +1,1 @@
+<a class="cta-link" href="${url}" target="_blank">${text}</a>
